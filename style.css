@@ -1,0 +1,27 @@
+div {
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+
+}
+
+#navbar {
+
+    color: rgb(0, 133, 116);
+    font-size: 16px;
+}
+
+#menu {
+
+    color: rgb(0, 78, 68);
+    font-size: 12px;
+
+}
+
+#main {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 57, 49);
+    font-size: 16px;
+    text-align: left;
+}
